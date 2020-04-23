@@ -1,4 +1,5 @@
 港台频道,#genre#
+无线财经,www.chengbo.org/proxy/tvb.m3u8?id=wxcj
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 有线新闻,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/01.m3u8
 翡翠臺,tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk#http://m.567it.com/jade.m3u8
