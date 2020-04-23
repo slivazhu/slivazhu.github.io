@@ -1,4 +1,4 @@
-港台频道,#genre#
+港澳频道,#genre#
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 有线新闻,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/01.m3u8
 翡翠臺,tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk#http://m.567it.com/jade.m3u8
@@ -24,6 +24,7 @@ now sport prime,tvbus://3uEWvczEzfF8ZRzBh1YYaP76zdHhqw6ZMWqkBJCSedb4oXFt2S
 香港衛視,tvbus://3Cfrdt2QESpinW8tc6eA5ksB4kE63h5CdWJpUqg9qqGHeyueEv
 澳亞衛視,tvbus://4SRjZx5zSQ2srSstaZ3vCpGuEhgTUXBLaacrR6eYNFgcdJzZBb
 澳門衛視,tvbus://3ALuqstPh5asKRD1BKeD7CaVBhbKSqZDGRNirsNXebdr1HeNc6
+体育频道,#genre#
 緯來體育_HD,tvbus://2z433RhP2nY9CDpLhVWhHXs3iwUxRZbu7mZeHBb4DSPZ3Zn736
 FOX_運動_HD,tvbus://4s9mLzSWMnD3kLXGTJHZPhefn7DnuKugcVuzm6sdRgQNEEvd8U
 FOX_SPORTS_2,tvbus://3tu3LpWa2nW5We4s5oK9VGxd8RTuKmCtEWWVVNDrn8L69a6uq4
