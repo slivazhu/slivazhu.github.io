@@ -71,40 +71,25 @@ J2,https://pl0-hls.live.huajiao.com/live_huajiao_v2/3c737b5e1efb1d023101be3fa83d
 凤凰卫视中文台,http://live.centerch.com/fhzw.m3u8
 凤凰卫视资讯台,http://live.centerch.com/fhzx.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-台湾频道,#genre#
-EBC东森新闻HD,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-EBC东森电影HD,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-EBC东森洋片HD,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-东森电影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-东森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-动物星球,http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-华纳电影,http://192.154.103.75:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-国家地理,http://192.154.103.75:8080/ZZ_hbo/ZZ_hbo.m3u8
-FOX动作电影,http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-华视,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
-中视,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-动物星球,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-GOLF 博斯高球,vjms://61.216.1.24:8500:3502/live/cid=265
-ELTA 1(HD),vjms://61.216.1.24:8500:3502/live/cid=266
-FOX Sports 3,vjms://61.216.1.24:8500:3502/live/cid=95
+体育频道,#genre#
+纬来体育,vjms://61.216.1.24:8500:3502/live/cid=202#vjms://58.215.133.189:8500:3502/live/cid=202
+ELTA 1(HD),vjms://61.216.1.24:8500:3502/live/cid=266#vjms://58.215.133.189:8500:3502/live/cid=266
+FOX Sports 1,vjms://61.216.1.24:8500/live/cid=97#vjms://58.215.133.189:8500:3502/live/cid=97
+FOX Sports 2,vjms://61.216.1.24:8500/live/cid=444#vjms://58.215.133.189:8500:3502/live/cid=444
+FOX Sports 3,vjms://61.216.1.24:8500:3502/live/cid=95#vjms://58.215.133.189:8500:3502/live/cid=95
+SBS sports,vjms://61.216.1.24:8500:3502/live/cid=156
+SPOTV,vjms://61.216.1.24:8500:3502/live/cid=157
+海外频道
 NGC(HD),vjms://61.216.1.24:8500:3502/live/cid=115
+NGC Wild(HD),vjms://61.216.1.24:8500:3502/live/cid=263
 Animal Planet,vjms://61.216.1.24:8500:3502/live/cid=3
 Discovery(HD),vjms://61.216.1.24:8500:3502/live/cid=440
 Discovery Science(HD),vjms://61.216.1.24:8500:3502/live/cid=457
 TLC,vjms://61.216.1.24:8500:3502/live/cid=103
 HBO(HD),vjms://61.216.1.24:8500:3502/live/cid=261
-CNN(EN),vjms://61.216.1.24:8500:3502/live/cid=428
+CNN(EN),vjms://61.216.1.24:8500:3502/live/cid=428#vjms://58.215.133.189:8500:3502/live/cid=428#vjms://58.215.133.154:8500/live/cid=428
 BBC,vjms://61.216.1.24:8500:3502/live/cid=418
 CNBC(CN),vjms://61.216.1.24:8500:3502/live/cid=98
-NGC Wild(HD),vjms://61.216.1.24:8500:3502/live/cid=263
-Kbsn sports,vjms://61.216.1.24:8500:3502/live/cid=153
-MBC sports+,vjms://61.216.1.24:8500:3502/live/cid=154
-SBS sports,vjms://61.216.1.24:8500:3502/live/cid=156
-SPOTV,vjms://61.216.1.24:8500:3502/live/cid=157
-CNN,vjms://58.215.133.154:8500/live/cid=428
-CNN,vjms://58.215.133.189:8500:3502/live/cid=428
 联通专区,#genre#
 CCTV-1HD,http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV2-HD,http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
