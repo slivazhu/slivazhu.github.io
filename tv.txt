@@ -79,7 +79,7 @@ FOX Sports 2,vjms://61.216.1.24:8500/live/cid=444#vjms://58.215.133.189:8500:350
 FOX Sports 3,vjms://61.216.1.24:8500:3502/live/cid=95#vjms://58.215.133.189:8500:3502/live/cid=95
 SBS sports,vjms://61.216.1.24:8500:3502/live/cid=156
 SPOTV,vjms://61.216.1.24:8500:3502/live/cid=157
-海外频道
+海外频道,#genre#
 NGC(HD),vjms://61.216.1.24:8500:3502/live/cid=115
 NGC Wild(HD),vjms://61.216.1.24:8500:3502/live/cid=263
 Animal Planet,vjms://61.216.1.24:8500:3502/live/cid=3
