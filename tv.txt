@@ -64,13 +64,10 @@ CCTV-17农业农村,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204
 港澳频道,#genre#
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php#https://ootori.xyz/tv/tvb.php?id=inews
 有线新闻,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/01.m3u8
-翡翠台,https://pl0-hls.live.huajiao.com/live_huajiao_v2/0b35946cb77b8e0f3e430ca06310d6c5/playlist.m3u8#http://m.567it.com/jade.m3u8
-J2,https://pl0-hls.live.huajiao.com/live_huajiao_v2/3c737b5e1efb1d023101be3fa83dfedf/playlist.m3u8
-明珠台,https://pl0-hls.live.huajiao.com/live_huajiao_v2/b1da26cb8ef06a3e3d5f3320eeea881f/playlist.m3u8
+翡翠台,http://m.567it.com/jade.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 凤凰卫视中文台,http://live.centerch.com/fhzw.m3u8
 凤凰卫视资讯台,http://live.centerch.com/fhzx.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 体育频道,#genre#
 纬来体育,vjms://61.216.1.24:8500:3502/live/cid=202#vjms://58.215.133.189:8500:3502/live/cid=202
 ELTA 1(HD),vjms://61.216.1.24:8500:3502/live/cid=266#vjms://58.215.133.189:8500:3502/live/cid=266
