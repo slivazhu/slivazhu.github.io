@@ -73,7 +73,7 @@ ELTA体育2台,p2p://lino.homeunix.com:6007/59fd37f9000df20002ef2381617811bf.ts
 ELTA体育3台,p2p://lino.homeunix.com:6007/5b1ea05d0009a88cd02e7355473b4230.ts#p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 FOX Sports 2,vjms://61.216.1.24:8500/live/cid=444#vjms://58.215.133.189:8500:3502/live/cid=444
 FOX Sports 3,vjms://61.216.1.24:8500:3502/live/cid=95#vjms://58.215.133.189:8500:3502/live/cid=95
-浙江体育 高清,http://ali.m.l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江体育,http://ali.m.l.cztv.com/channels/lantian/channel06/1080p.m3u8
 五星体育,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
 海外频道,#genre#
 HBO,vjms://61.216.1.24:8500:3502/live/cid=261#vjms://58.215.133.189:8500:3502/live/cid=261#vjms://58.215.133.154:8500/live/cid=261
