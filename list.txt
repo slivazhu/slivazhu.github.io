@@ -142,13 +142,13 @@ CCTV-17农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888
 港澳频道,#genre#
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php#https://ootori.xyz/tv/tvb.php?id=inews
 有线新闻,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/01.m3u8
-翡翠台,http://m.567it.com/jade.m3u8
+翡翠台,http://m.567it.com/jade.m3u8#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+有線綜合娛樂台,https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/01.m3u8
+有線財經資訊台,https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/01.m3u8
 体育频道,#genre#
-纬来体育,vjms://61.216.1.24:8500:3502/live/cid=202#vjms://58.215.133.189:8500:3502/live/cid=202#p2p://lino.homeunix.com:6007/5a141bab0009ca9c5f91208265721808.ts
-ELTA体育1台,vjms://61.216.1.24:8500:3502/live/cid=266#vjms://58.215.133.189:8500:3502/live/cid=266#p2p://lino.homeunix.com:6007/59fd07ba000a4d260232ac6f507c5a84.ts
-ELTA体育2台,p2p://lino.homeunix.com:6007/59fd37f9000df20002ef2381617811bf.ts
-ELTA体育3台,p2p://lino.homeunix.com:6007/5b1ea05d0009a88cd02e7355473b4230.ts#p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
+纬来体育,vjms://61.216.1.24:8500:3502/live/cid=202#vjms://58.215.133.189:8500:3502/live/cid=202
+ELTA体育1台,vjms://61.216.1.24:8500:3502/live/cid=266#vjms://58.215.133.189:8500:3502/live/cid=266
 FOX Sports 2,vjms://61.216.1.24:8500/live/cid=444#vjms://58.215.133.189:8500:3502/live/cid=444
 FOX Sports 3,vjms://61.216.1.24:8500:3502/live/cid=95#vjms://58.215.133.189:8500:3502/live/cid=95
 浙江体育,http://ali.m.l.cztv.com/channels/lantian/channel06/1080p.m3u8
