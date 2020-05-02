@@ -152,7 +152,16 @@ ELTA体育1台,vjms://61.216.1.24:8500:3502/live/cid=266#vjms://58.215.133.189:8
 FOX Sports 2,vjms://61.216.1.24:8500/live/cid=444#vjms://58.215.133.189:8500:3502/live/cid=444
 FOX Sports 3,vjms://61.216.1.24:8500:3502/live/cid=95#vjms://58.215.133.189:8500:3502/live/cid=95
 浙江体育,http://ali.m.l.cztv.com/channels/lantian/channel06/1080p.m3u8
-五星体育,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
+五星体育,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+劲爆体育,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+新视觉,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/xsjhd/2300000/mnf.m3u8#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+BesTV 1,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba1/2300000/mnf.m3u8#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba1/4000000/mnf.m3u8
+BesTV 2,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba2/2300000/mnf.m3u8#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba2/4000000/mnf.m3u8
+BesTV 3,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba3/2300000/mnf.m3u8#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba3/4000000/mnf.m3u8
+BesTV 4,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba4/2300000/mnf.m3u8#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba4/4000000/mnf.m3u8
+BesTV 5,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba5/2300000/mnf.m3u8#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8
+BesTV 6,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba6/2300000/mnf.m3u8#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba6/4000000/mnf.m3u8
+BesTV 7,http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba7/2300000/mnf.m3u8#http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hdnba7/4000000/mnf.m3u8
 海外频道,#genre#
 HBO,vjms://61.216.1.24:8500:3502/live/cid=261#vjms://58.215.133.189:8500:3502/live/cid=261#vjms://58.215.133.154:8500/live/cid=261
 CNN,vjms://61.216.1.24:8500:3502/live/cid=428#vjms://58.215.133.189:8500:3502/live/cid=428#vjms://58.215.133.154:8500/live/cid=428
