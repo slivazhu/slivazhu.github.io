@@ -5,6 +5,8 @@
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 有線綜合娛樂台,https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/01.m3u8
 有線財經資訊台,https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/01.m3u8
+凤凰中文台,http://qlive.fengshows.cn/live720p/PCC.flv
+凤凰资讯台,http://qlive.fengshows.cn/live720p/PIN.flv
 体育频道
 纬来体育,vjms://61.216.1.24:8500:3502/live/cid=202#vjms://58.215.133.189:8500:3502/live/cid=202
 ELTA体育1台,vjms://61.216.1.24:8500:3502/live/cid=266#vjms://58.215.133.189:8500:3502/live/cid=266
