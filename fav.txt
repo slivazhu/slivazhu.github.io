@@ -1,0 +1,7 @@
+﻿无线新闻,http://www.liveviptv.xyz/tv/tvb.php#@www.chengbo.org/proxy/tvb.m3u8?id=wxxw#@https://ootori.xyz/tv/tvb.php?id=inews
+有线新闻,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/03.m3u8#@https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/02.m3u8#@https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/01.m3u8
+无线财经,www.chengbo.org/proxy/tvb.m3u8?id=wxcj
+翡翠台,http://m.567it.com/jade.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+有線綜合娛樂台,https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8#@https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/02.m3u8#@https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/01.m3u8
+有線財經資訊台,https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/03.m3u8#@https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/02.m3u8#@https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/01.m3u8
