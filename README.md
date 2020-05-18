@@ -5,3 +5,4 @@ fav.txt用于星火直播,复制到盒子的ftv文件夹中
 亿家直播分享码430673
 推荐盒子软件
 https://drive.google.com/drive/folders/1w1DQQjcGNZzVLrd8oXh31Ez7Xv4J-sxB?usp=sharing
+只更新tv.txt,其它文件可自定义修改.
