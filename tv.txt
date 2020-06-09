@@ -1,10 +1,10 @@
 ﻿香港频道
-无线新闻,http://www.liveviptv.xyz/tv/tvb.php#http://bbdd.228888888.xyz:8081/hls/ch201.m3u8
-有线新闻,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/01.m3u8#http://bbdd.228888888.xyz:8081/hls/ch109.m3u8
-翡翠台,http://m.567it.com/jade.m3u8#http://bbdd.228888888.xyz:8081/hls/ch101.m3u8
+无线新闻,http://www.liveviptv.xyz/tv/tvb.php#tvbus://1DmjqwYHs7HfGVhSqHDyi5X1y8gKaPKjHk8C6pyhUHVTpFdiwd
+有线新闻,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/01.m3u8
+翡翠台,http://m.567it.com/jade.m3u8#tvbus://1SPreSmvbL4eRcQvMAPiYaG5TLrtACF27SJ1Gq3rmEZ9rVioNj
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-有线娱乐,https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/01.m3u8#http://bbdd.228888888.xyz:8081/hls/ch118.m3u8
-有线财经,https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/01.m3u8#http://bbdd.228888888.xyz:8081/hls/ch117.m3u8
+有线娱乐,https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/01.m3u8
+有线财经,https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/01.m3u8
 体育频道
 纬来体育,vjms://58.215.133.189:8500:3502/live/cid=202
 ELTA体育1台,vjms://58.215.133.189:8500:3502/live/cid=266
