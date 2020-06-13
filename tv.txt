@@ -1,10 +1,17 @@
 ﻿香港频道
-无线新闻,http://www.liveviptv.xyz/tv/tvb.php#tvbus://1DmjqwYHs7HfGVhSqHDyi5X1y8gKaPKjHk8C6pyhUHVTpFdiwd
-有线新闻,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/01.m3u8
-翡翠台,http://m.567it.com/jade.m3u8#tvbus://1SPreSmvbL4eRcQvMAPiYaG5TLrtACF27SJ1Gq3rmEZ9rVioNj
+无线新闻,http://www.liveviptv.xyz/tv/tvb.php#tvbus://1DmjqwYHs7HfGVhSqHDyi5X1y8gKaPKjHk8C6pyhUHVTpFdiwd#http://www.dszbdq.cn/play/wxtv0605.php?id=wxxwsd
+有线新闻,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/01.m3u8#tvbus://12Tkyk4R8MzCFd5rsNnNi7YAM8Xyoeo8UPy7aFtPabhJdrcRv9u
+翡翠台,http://m.567it.com/jade.m3u8#tvbus://1SPreSmvbL4eRcQvMAPiYaG5TLrtACF27SJ1Gq3rmEZ9rVioNj#http://danielwu.gz01.bdysite.com/iptv/?id=tvb
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-有线娱乐,https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/01.m3u8
-有线财经,https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/03.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/01.m3u8
+有线娱乐,https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/01.m3u8
+有线财经,https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/02.m3u8#https://ottproxy2.mott.tv/livehls:cmi/MOB-NGW/01.m3u8
+凤凰资讯,tvbus://12ao3KDPKD8Qnf34mbtvzpJFaDJhB57PAYkLLrua5YiAbdrQs6o
+星河频道,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8#http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+TVB J2,http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8#http://danielwu.gz01.bdysite.com/iptv/?id=j2
+NOW新闻,http://hls.globaliptv.ml/now332.php
+有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/01.m3u8
+有线娱乐,https://ottproxy2.mott.tv/livehls/MOB-CN/02.m3u8#https://ottproxy2.mott.tv/livehls/MOB-CN/01.m3u8
+有线财经,https://ottproxy2.mott.tv/livehls/MOB-NGW/02.m3u8#https://ottproxy2.mott.tv/livehls/MOB-NGW/01.m3u8
 体育频道
 纬来体育,vjms://58.215.133.189:8500:3502/live/cid=202
 ELTA体育1台,vjms://58.215.133.189:8500:3502/live/cid=266
@@ -12,7 +19,35 @@ FOX Sports 2,vjms://58.215.133.189:8500:3502/live/cid=444
 FOX Sports 3,vjms://58.215.133.189:8500:3502/live/cid=95
 浙江体育,http://ali.m.l.cztv.com/channels/lantian/channel06/1080p.m3u8
 五星体育,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
+纬来体育,rtmp://xiaoyu.speedws.com/sat/tv721
+Eleven Plus,rtmp://xiaoyu.speedws.com/sat/md011
+Eleven 2,rtmp://xiaoyu.speedws.com/sat/md041
+Fox Sport 3,rtmp://xiaoyu.speedws.com/sat/md021
+FOX 体育一台,rtmp://xiaoyu.speedws.com/sat/tv731
+FOX 体育二台,rtmp://xiaoyu.speedws.com/sat/tv742
 海外频道
 HBO,vjms://58.215.133.189:8500:3502/live/cid=261#vjms://58.215.133.154:8500/live/cid=261
 CNN,vjms://58.215.133.189:8500:3502/live/cid=428#vjms://58.215.133.154:8500/live/cid=428
 BBC,vjms://58.215.133.189:8500:3502/live/cid=418#vjms://58.215.133.154:8500/live/cid=418
+台湾频道
+台视,rtmp://xiaoyu.speedws.com/sat/tv071
+中视,rtmp://xiaoyu.speedws.com/sat/tv091#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+华视,rtmp://xiaoyu.speedws.com/sat/tv111#http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+民视,rtmp://xiaoyu.speedws.com/sat/tv051
+中天综合,http://192.154.103.75:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+中天新闻,rtmp://xiaoyu.speedws.com/sat/tv521#http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天娱乐,http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+东森电影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+东森洋片,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+东森财经,rtmp://xiaoyu.speedws.com/sat/tv571
+八大综合,http://192.154.103.75:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+龙翔电影,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
+纬来日本,rtmp://xiaoyu.speedws.com/sat/tv772
+纬来育乐,rtmp://xiaoyu.speedws.com/sat/tv701
+动物星球,http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8#http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+Babylv,rtmp://xiaoyu.speedws.com/sat/md051
+好莱坞电影台,http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+TVBS 欢乐频道,rtmp://xiaoyu.speedws.com/sat/tv421
+TVBS 新闻频道,rtmp://xiaoyu.speedws.com/sat/tv551
+FOX 电影频道,http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+华视教育,rtmp://xiaoyu.speedws.com/sat/md031
