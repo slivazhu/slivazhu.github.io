@@ -8,10 +8,6 @@
 凤凰资讯,tvbus://12ao3KDPKD8Qnf34mbtvzpJFaDJhB57PAYkLLrua5YiAbdrQs6o
 星河频道,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8#http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 TVB J2,http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8#http://danielwu.gz01.bdysite.com/iptv/?id=j2
-NOW新闻,http://hls.globaliptv.ml/now332.php
-有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/01.m3u8
-有线娱乐,https://ottproxy2.mott.tv/livehls/MOB-CN/02.m3u8#https://ottproxy2.mott.tv/livehls/MOB-CN/01.m3u8
-有线财经,https://ottproxy2.mott.tv/livehls/MOB-NGW/02.m3u8#https://ottproxy2.mott.tv/livehls/MOB-NGW/01.m3u8
 体育频道
 纬来体育,vjms://58.215.133.189:8500:3502/live/cid=202
 ELTA体育1台,vjms://58.215.133.189:8500:3502/live/cid=266
@@ -22,7 +18,7 @@ FOX Sports 3,vjms://58.215.133.189:8500:3502/live/cid=95
 纬来体育,rtmp://xiaoyu.speedws.com/sat/tv721
 Eleven Plus,rtmp://xiaoyu.speedws.com/sat/md011
 Eleven 2,rtmp://xiaoyu.speedws.com/sat/md041
-Fox Sport 3,rtmp://xiaoyu.speedws.com/sat/md021
+FOX 体育三台,rtmp://xiaoyu.speedws.com/sat/md021
 FOX 体育一台,rtmp://xiaoyu.speedws.com/sat/tv731
 FOX 体育二台,rtmp://xiaoyu.speedws.com/sat/tv742
 海外频道
