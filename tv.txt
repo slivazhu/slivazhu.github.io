@@ -40,7 +40,7 @@ BBC,vjms://58.215.133.189:8500:3502/live/cid=418#vjms://58.215.133.154:8500/live
 龙翔电影,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 纬来日本,rtmp://xiaoyu.speedws.com/sat/tv772
 纬来育乐,rtmp://xiaoyu.speedws.com/sat/tv701
-动物星球,vjms://58.215.133.185:8500:3502/live/cid=3#http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8#http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+动物星球,vjms://58.215.133.189:8500:3502/live/cid=3#http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8#http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 Babylv,rtmp://xiaoyu.speedws.com/sat/md051
 好莱坞电影台,http://192.154.103.75:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 TVBS 欢乐频道,rtmp://xiaoyu.speedws.com/sat/tv421
