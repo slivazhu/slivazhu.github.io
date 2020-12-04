@@ -15,8 +15,6 @@
 广东珠江,tvbus://6gfNE9gwsxxJa44rbU7TgXZTqnkKgpjpKSDc1cyd2r7EdxQEJZRjwqmyWFV7Q
 广东新闻,tvbus://6XANrXXSzbLAUBv9RHb3qQELuN3Am4PZJ5zr5czmoFaF9S2JHUJzFxCkUDfgL
 新闻频道
-无线新闻,https://ootori.xyz/tv/tvb.php?id=inews
-开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 无线新闻,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
 无线财经,tvbus://5abQ59biU9JmSDaVxDMGYqY44R9xq2mpyfMRoiuGuFT7NoXLSkaME7diYrevL
 有線財經,tvbus://63fvA6r71HaVvqPntBHZTgkkC3QsCGaNu2YJgcDPQ7rtxTwQzys6ucgQRo4fV
