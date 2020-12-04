@@ -10,3 +10,9 @@ RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
 賽事直擊,http://livetv.dnsfor.me/channel.13.m3u8
 無線新聞台,http://livetv.dnsfor.me/channel.10.m3u8
 無線財經台,http://livetv.dnsfor.me/channel.11.m3u8
+亞洲電視,http://livetv.dnsfor.me/channel.14.m3u8
+香港衛視,http://livetv.dnsfor.me/channel.15.m3u8
+鳳凰香港,http://livetv.dnsfor.me/channel.16.m3u8
+NOW 331,http://livetv.dnsfor.me/channel.3.m3u8
+NOW 332,http://livetv.dnsfor.me/channel.4.m3u8
+NOW 660,http://livetv.dnsfor.me/channel.12.m3u8
