@@ -1,4 +1,4 @@
-﻿香港频道
+﻿香港频道,#genre#
 开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
